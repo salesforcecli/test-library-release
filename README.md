@@ -6,6 +6,8 @@ Template npm library for Salesforce CLI and VSCode Extensions
 
 ## Using the template
 
+Foo1
+
 This repository provides an opinionated template for an npm library that will be consumed primarily by the Salesforce CLI and VSCode Extensions.
 
 This was created for internal use, but could be modified for use outside of Salesforce.
