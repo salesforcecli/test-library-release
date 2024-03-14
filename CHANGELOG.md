@@ -1,3 +1,12 @@
+## [0.0.4](https://github.com/salesforcecli/test-library-release/compare/0.0.3...0.0.4) (2024-03-14)
+
+
+### Bug Fixes
+
+* **deps:** bump minimist from 1.2.5 to 1.2.8 ([e644c75](https://github.com/salesforcecli/test-library-release/commit/e644c755730c5240fe830472e9aed72293b476cd))
+
+
+
 ## [0.0.3](https://github.com/salesforcecli/test-library-release/compare/0.0.2...0.0.3) (2024-03-14)
 
 
