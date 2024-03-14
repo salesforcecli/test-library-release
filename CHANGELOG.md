@@ -1,3 +1,12 @@
+## [0.0.5](https://github.com/salesforcecli/test-library-release/compare/0.0.4...0.0.5) (2024-03-14)
+
+
+### Bug Fixes
+
+* **deps:** bump @babel/traverse from 7.17.0 to 7.24.0 ([da5bfa6](https://github.com/salesforcecli/test-library-release/commit/da5bfa60d8e0b64b54ec316d766e062eb49155df))
+
+
+
 ## [0.0.4](https://github.com/salesforcecli/test-library-release/compare/0.0.3...0.0.4) (2024-03-14)
 
 
