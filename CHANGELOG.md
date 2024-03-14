@@ -1,3 +1,12 @@
+## [0.0.3](https://github.com/salesforcecli/test-library-release/compare/0.0.2...0.0.3) (2024-03-14)
+
+
+### Bug Fixes
+
+* **deps:** bump semver from 5.7.1 to 5.7.2 ([9cc4632](https://github.com/salesforcecli/test-library-release/commit/9cc463209baa012f43677cc523456df20555d798))
+
+
+
 ## [0.0.2](https://github.com/salesforcecli/test-library-release/compare/0.0.2-dev.0...0.0.2) (2024-03-13)
 
 
