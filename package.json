@@ -1,6 +1,6 @@
 {
   "name": "@salesforce/test-library-release",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Testing releasing of a library that was generated with 'dev generate library'",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

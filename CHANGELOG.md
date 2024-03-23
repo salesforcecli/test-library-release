@@ -1,3 +1,12 @@
+## [0.0.6](https://github.com/salesforcecli/test-library-release/compare/0.0.5...0.0.6) (2024-03-23)
+
+
+### Bug Fixes
+
+* **deps:** bump @salesforce/core from 6.7.1 to 6.7.3 ([e1ef571](https://github.com/salesforcecli/test-library-release/commit/e1ef571b77b69ddaec3253e2fabb093d48453162))
+
+
+
 ## [0.0.5](https://github.com/salesforcecli/test-library-release/compare/0.0.4...0.0.5) (2024-03-14)
 
 
