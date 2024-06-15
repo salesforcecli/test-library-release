@@ -1,3 +1,12 @@
+## [0.0.11](https://github.com/salesforcecli/test-library-release/compare/0.0.10...0.0.11) (2024-06-15)
+
+
+### Bug Fixes
+
+* **deps:** bump braces from 3.0.2 to 3.0.3 ([43de1e3](https://github.com/salesforcecli/test-library-release/commit/43de1e3dc770c6b95b7e1e22f0619c1ea32657c9))
+
+
+
 ## [0.0.10](https://github.com/salesforcecli/test-library-release/compare/0.0.9...0.0.10) (2024-05-25)
 
 
