@@ -1,3 +1,12 @@
+## [0.0.13](https://github.com/salesforcecli/test-library-release/compare/0.0.12...0.0.13) (2024-06-16)
+
+
+### Bug Fixes
+
+* **deps:** bump @salesforce/ts-types from 2.0.9 to 2.0.10 ([81d4838](https://github.com/salesforcecli/test-library-release/commit/81d483875091c65c408a3d07ce67e18189917851))
+
+
+
 ## [0.0.12](https://github.com/salesforcecli/test-library-release/compare/0.0.11...0.0.12) (2024-06-16)
 
 
