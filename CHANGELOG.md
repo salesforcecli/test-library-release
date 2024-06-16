@@ -1,3 +1,12 @@
+## [0.0.12](https://github.com/salesforcecli/test-library-release/compare/0.0.11...0.0.12) (2024-06-16)
+
+
+### Bug Fixes
+
+* **deps:** bump @salesforce/kit from 3.1.2 to 3.1.4 ([eb23702](https://github.com/salesforcecli/test-library-release/commit/eb23702feb87573460a91d5c9cadd3d91e2393ec))
+
+
+
 ## [0.0.11](https://github.com/salesforcecli/test-library-release/compare/0.0.10...0.0.11) (2024-06-15)
 
 
