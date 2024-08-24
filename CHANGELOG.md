@@ -1,3 +1,12 @@
+## [0.0.16](https://github.com/salesforcecli/test-library-release/compare/0.0.15...0.0.16) (2024-08-24)
+
+
+### Bug Fixes
+
+* **deps:** bump micromatch from 4.0.4 to 4.0.8 ([3edf763](https://github.com/salesforcecli/test-library-release/commit/3edf7637d2db3786fe134e18340eadb7efe5c2f8))
+
+
+
 ## [0.0.15](https://github.com/salesforcecli/test-library-release/compare/0.0.14...0.0.15) (2024-08-10)
 
 
