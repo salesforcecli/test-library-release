@@ -34,7 +34,7 @@
   ],
   "dependencies": {
     "@salesforce/core": "^6.7.6",
-    "@salesforce/kit": "^3.2.1",
+    "@salesforce/kit": "^3.2.2",
     "@salesforce/ts-types": "^2.0.10",
     "graceful-fs": "^4.2.11"
   },
